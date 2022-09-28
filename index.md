@@ -4,7 +4,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 My name is **Jonathan Yin**, and I am a ~~second~~ *third* year Mathematics and Computer Science student at UC San Diego. In my free time, I enjoy **weightlifting, running, and _playing video games_**. You will often find me at ***RIMAC*** <sup>working out</sup>, or <sub>hanging out on campus.</sub>
 
-![Me](https://i.imgur.com/HEKKOFj.jpg)
+<!-- ![Me](https://i.imgur.com/HEKKOFj.jpg) -->
+<img src="https://i.imgur.com/HEKKOFj.jpg" width="200" />
 
 My computer science journey started when I was in middle school, with my first web development class. Although the contents of which have long since been forgotten, that rudimentary course remains the spark that brought about the longest, most arduous journey I have taken in my life. Since then, I have explored many aspects of computer science throughout all of my programming endeavors, while still barely scratching the surface of what is to be explored. Despite this, I have learned not to be discouraged in the face of a sea of uncertainty, but instead to be excited at the prospect of expanding the bounds of human knowledge. 
 
