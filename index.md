@@ -37,4 +37,4 @@ I will take steps to achieve these goals by doing the following:
 
 [README file for this project](README.md)
 
-[Go to top](#jonathan-yin's-page)
+[Go to top](#jonathan-yins-page)
